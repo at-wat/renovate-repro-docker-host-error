@@ -1,1 +1,1 @@
-FROM intermediate
+FROM intermediate:3
